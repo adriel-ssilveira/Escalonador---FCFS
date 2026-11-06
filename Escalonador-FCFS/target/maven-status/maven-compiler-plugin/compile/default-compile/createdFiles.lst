@@ -1,0 +1,8 @@
+br\com\escalonador\EscalonadorSJF.class
+br\com\escalonador\Intervalo.class
+br\com\escalonador\MetricaProcesso.class
+br\com\escalonador\Processo.class
+br\com\escalonador\Medias.class
+br\com\escalonador\EscalonadorFCFS.class
+br\com\escalonador\Main.class
+br\com\escalonador\Resultado.class
